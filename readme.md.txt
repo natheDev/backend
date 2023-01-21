@@ -1,1 +1,0 @@
-this repo will be the eyes of my journey learning backend using go.
