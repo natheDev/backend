@@ -1,0 +1,1 @@
+This repo will be a silent witness to my journey of learning the backend system using go.
